@@ -1,0 +1,138 @@
+C:\Users\Alexander\AppData\Local\Temporary Projects\Ping-pong\bin\Debug\Ping-pong.exe
+C:\Users\Alexander\AppData\Local\Temporary Projects\Ping-pong\bin\Debug\Ping-pong.pdb
+C:\Users\Alexander\AppData\Local\Temporary Projects\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\AppData\Local\Temporary Projects\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+C:\Users\Alexander\AppData\Local\Temporary Projects\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+C:\Users\Alexander\AppData\Local\Temporary Projects\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alexander\AppData\Local\Temporary Projects\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexander\AppData\Local\Temporary Projects\Ping-pong\obj\x86\Debug\Ping-pong.exe
+C:\Users\Alexander\AppData\Local\Temporary Projects\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.exe
+C:\Users\Alexander\documents\visual studio 2010\Projects\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe
+C:\Users\Alexander\documents\visual studio 2010\Projects\Ping-pong\Ping-pong\bin\Debug\Ping-pong.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\Ping-pong\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2010\Projects\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+C:\Users\Alexander\documents\visual studio 2010\Projects\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+C:\Users\Alexander\documents\visual studio 2010\Projects\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alexander\documents\visual studio 2010\Projects\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.exe
+D:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+D:\Разное\Программинг\C#\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe
+D:\Разное\Программинг\C#\Ping-pong\Ping-pong\bin\Debug\Ping-pong.pdb
+D:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+D:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+D:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\temp\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.exe
+D:\temp\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+D:\temp\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe
+D:\temp\Ping-pong\Ping-pong\bin\Debug\Ping-pong.pdb
+D:\temp\Ping-pong\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\temp\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+D:\temp\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+D:\temp\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\temp\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\vladgor_5283730\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.exe
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\vladgor_5283730\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\vladgor_5283730\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\vladgor_5283730\Ping-pong\Ping-pong\bin\Debug\Ping-pong.pdb
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\vladgor_5283730\Ping-pong\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\vladgor_5283730\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\vladgor_5283730\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\vladgor_5283730\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\vladgor_5283730\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\V1adGor_398193048@qip.ru\Ping-pong (1)\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.exe
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\V1adGor_398193048@qip.ru\Ping-pong (1)\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\V1adGor_398193048@qip.ru\Ping-pong (1)\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\V1adGor_398193048@qip.ru\Ping-pong (1)\Ping-pong\Ping-pong\bin\Debug\Ping-pong.pdb
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\V1adGor_398193048@qip.ru\Ping-pong (1)\Ping-pong\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\V1adGor_398193048@qip.ru\Ping-pong (1)\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\V1adGor_398193048@qip.ru\Ping-pong (1)\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\V1adGor_398193048@qip.ru\Ping-pong (1)\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\V1adGor_398193048@qip.ru\Ping-pong (1)\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\V1adGor_398193048@qip.ru\Ping-pong (1)\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.menu.resources
+C:\Users\Alexander\AppData\Roaming\QIP\Profiles\alexander-96@qip.ru\RcvdFiles\V1adGor_398193048@qip.ru\Ping-pong (1)\Ping-pong\Ping-pong\bin\Debug\sockets.dll
+D:\temp\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.menu.resources
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\Ping-pong\bin\Debug\Ping-pong.pdb
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\Ping-pong\bin\Debug\sockets.dll
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.menu.resources
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.exe
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.exe
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\bin\Debug\Ping-pong.pdb
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.menu.resources
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alexander\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexander\Desktop\Мусор\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.exe
+C:\Users\Alexander\Desktop\Мусор\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+C:\Users\Alexander\Desktop\Мусор\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe
+C:\Users\Alexander\Desktop\Мусор\Ping-pong\Ping-pong\bin\Debug\Ping-pong.pdb
+C:\Users\Alexander\Desktop\Мусор\Ping-pong\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Мусор\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+C:\Users\Alexander\Desktop\Мусор\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.menu.resources
+C:\Users\Alexander\Desktop\Мусор\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Мусор\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alexander\Desktop\Мусор\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Разное\Программинг\C#\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe.config
+E:\Разное\Программинг\C#\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe
+E:\Разное\Программинг\C#\Ping-pong\Ping-pong\bin\Debug\Ping-pong.pdb
+E:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+E:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.menu.resources
+E:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+E:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.exe
+E:\Разное\Программинг\C#\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+C:\Users\Alex\Desktop\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe.config
+C:\Users\Alex\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.exe
+C:\Users\Alex\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+C:\Users\Alex\Desktop\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe
+C:\Users\Alex\Desktop\Ping-pong\Ping-pong\bin\Debug\Ping-pong.pdb
+C:\Users\Alex\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+C:\Users\Alex\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.menu.resources
+C:\Users\Alex\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+C:\Users\Alex\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Desktop\Ping-pong\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\Пинг понг\Ping-pong\bin\Debug\Ping-pong.exe.config
+C:\Users\Alex\Desktop\Пинг понг\Ping-pong\obj\x86\Debug\Ping-pong.exe
+C:\Users\Alex\Desktop\Пинг понг\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+C:\Users\Alex\Desktop\Пинг понг\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Пинг понг\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+C:\Users\Alex\Desktop\Пинг понг\Ping-pong\obj\x86\Debug\Ping_pong.menu.resources
+C:\Users\Alex\Desktop\Пинг понг\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+C:\Users\Alex\Desktop\Пинг понг\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Desktop\Пинг понг\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\Пинг понг\Ping-pong\bin\Debug\Ping-pong.exe
+C:\Users\Alex\Desktop\Пинг понг\Ping-pong\bin\Debug\Ping-pong.pdb
+E:\temp\123\Ping-pong\bin\Debug\Ping-pong.exe.config
+E:\temp\123\Ping-pong\obj\x86\Debug\Ping-pong.exe
+E:\temp\123\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+E:\temp\123\Ping-pong\bin\Debug\Ping-pong.exe
+E:\temp\123\Ping-pong\bin\Debug\Ping-pong.pdb
+E:\temp\123\Ping-pong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\temp\123\Ping-pong\obj\x86\Debug\Ping_pong.Form1.resources
+E:\temp\123\Ping-pong\obj\x86\Debug\Ping_pong.menu.resources
+E:\temp\123\Ping-pong\obj\x86\Debug\Ping_pong.Properties.Resources.resources
+E:\temp\123\Ping-pong\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\temp\123\Ping-pong\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\с#\ping-pong\Ping-pong\bin\Debug\Ping-pong.exe.config
+E:\с#\ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.exe
+E:\с#\ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.pdb
+C:\Users\Александр\Desktop\ping-pong\Ping-pong\bin\Debug\Ping-pong.exe.config
+C:\Users\Александр\Desktop\ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.exe
+C:\Users\Александр\Desktop\ping-pong\Ping-pong\obj\x86\Debug\Ping-pong.pdb
